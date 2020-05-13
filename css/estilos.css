@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://images.wallpaperscraft.com/image/jungle_fantasy_deer_butterflies_night_trees_102121_1280x720.jpg");
+    background-size: auto 100vh;
+    font-family: verdana;
+  height:10vh;
+  }
+  
+  .menu {
+    background-color:teal;
+  }
+    
+    .menu ul {
+      display: flex;
+      justify-content: space-around;
+    }
+    
+  .menu li {
+    list-style: none;
+  } 
+  
+  a {
+   color: blue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+    
+  .site.subtitle {
+    font-style: italic;
+  }
+  
+  
+  
+  
+  
+  
